@@ -4,6 +4,9 @@ module.exports = function () {
   }
 
   return {
+    devServer: {
+      port: 3000,
+    },
     entry: {
       'site-mobile': ['./docs/site/entry'],
       'site-desktop': ['./docs/site/entry'],
