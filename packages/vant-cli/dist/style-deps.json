@@ -1,0 +1,546 @@
+{
+  "map": {
+    "action-bar": [],
+    "action-bar-button": [
+      "action-bar",
+      "badge",
+      "icon",
+      "loading",
+      "button"
+    ],
+    "action-bar-icon": [
+      "action-bar",
+      "badge",
+      "icon"
+    ],
+    "action-sheet": [
+      "badge",
+      "icon",
+      "loading",
+      "overlay",
+      "popup"
+    ],
+    "address-edit": [
+      "badge",
+      "icon",
+      "cell",
+      "field",
+      "loading",
+      "switch",
+      "button",
+      "overlay",
+      "popup",
+      "toast",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker",
+      "picker-group"
+    ],
+    "address-list": [
+      "badge",
+      "icon",
+      "tag",
+      "cell",
+      "loading",
+      "button",
+      "radio-group",
+      "checkbox",
+      "radio"
+    ],
+    "area": [
+      "badge",
+      "loading",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker",
+      "picker-group"
+    ],
+    "back-top": [
+      "badge",
+      "icon"
+    ],
+    "badge": [],
+    "barrage": [],
+    "button": [
+      "badge",
+      "icon",
+      "loading"
+    ],
+    "calendar": [
+      "badge",
+      "icon",
+      "loading",
+      "button",
+      "overlay",
+      "popup",
+      "toast",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker",
+      "picker-group"
+    ],
+    "card": [
+      "badge",
+      "icon",
+      "image",
+      "tag"
+    ],
+    "cascader": [
+      "badge",
+      "icon",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab"
+    ],
+    "cell": [
+      "badge",
+      "icon"
+    ],
+    "cell-group": [],
+    "checkbox": [
+      "badge",
+      "icon",
+      "checkbox-group"
+    ],
+    "checkbox-group": [],
+    "circle": [],
+    "col": [
+      "row"
+    ],
+    "collapse": [],
+    "collapse-item": [
+      "badge",
+      "icon",
+      "cell"
+    ],
+    "config-provider": [],
+    "contact-card": [
+      "badge",
+      "icon",
+      "cell"
+    ],
+    "contact-edit": [
+      "badge",
+      "icon",
+      "cell",
+      "field",
+      "loading",
+      "switch",
+      "button"
+    ],
+    "contact-list": [
+      "badge",
+      "icon",
+      "tag",
+      "cell",
+      "loading",
+      "button",
+      "radio-group",
+      "checkbox",
+      "radio"
+    ],
+    "count-down": [],
+    "coupon": [
+      "badge",
+      "icon",
+      "checkbox-group",
+      "checkbox"
+    ],
+    "coupon-cell": [
+      "badge",
+      "icon",
+      "cell"
+    ],
+    "coupon-list": [
+      "badge",
+      "icon",
+      "cell",
+      "field",
+      "loading",
+      "button",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "checkbox-group",
+      "checkbox",
+      "coupon",
+      "empty"
+    ],
+    "date-picker": [
+      "badge",
+      "loading",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker",
+      "picker-group"
+    ],
+    "dialog": [
+      "action-bar",
+      "badge",
+      "icon",
+      "loading",
+      "button",
+      "action-bar-button",
+      "overlay",
+      "popup"
+    ],
+    "divider": [],
+    "dropdown-item": [
+      "badge",
+      "icon",
+      "cell",
+      "overlay",
+      "popup",
+      "dropdown-menu"
+    ],
+    "dropdown-menu": [],
+    "empty": [],
+    "field": [
+      "badge",
+      "icon",
+      "cell"
+    ],
+    "floating-bubble": [
+      "badge",
+      "icon"
+    ],
+    "floating-panel": [],
+    "form": [],
+    "grid": [],
+    "grid-item": [
+      "badge",
+      "icon",
+      "grid"
+    ],
+    "icon": [
+      "badge"
+    ],
+    "image": [
+      "badge",
+      "icon"
+    ],
+    "image-preview": [
+      "badge",
+      "icon",
+      "image",
+      "loading",
+      "overlay",
+      "popup",
+      "swipe",
+      "swipe-item"
+    ],
+    "index-anchor": [
+      "index-bar"
+    ],
+    "index-bar": [],
+    "lazyload": [],
+    "list": [
+      "loading"
+    ],
+    "loading": [],
+    "locale": [],
+    "nav-bar": [
+      "badge",
+      "icon"
+    ],
+    "notice-bar": [
+      "badge",
+      "icon"
+    ],
+    "notify": [
+      "badge",
+      "icon",
+      "overlay",
+      "popup"
+    ],
+    "number-keyboard": [
+      "loading"
+    ],
+    "overlay": [],
+    "pagination": [],
+    "password-input": [],
+    "picker": [
+      "badge",
+      "loading",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker-group"
+    ],
+    "picker-group": [
+      "badge",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker"
+    ],
+    "popover": [
+      "badge",
+      "icon",
+      "overlay",
+      "popup"
+    ],
+    "popup": [
+      "badge",
+      "icon",
+      "overlay"
+    ],
+    "progress": [],
+    "pull-refresh": [
+      "loading"
+    ],
+    "radio": [
+      "badge",
+      "icon",
+      "radio-group",
+      "checkbox"
+    ],
+    "radio-group": [],
+    "rate": [
+      "badge",
+      "icon"
+    ],
+    "rolling-text": [],
+    "row": [],
+    "search": [
+      "badge",
+      "icon",
+      "cell",
+      "field"
+    ],
+    "share-sheet": [
+      "badge",
+      "icon",
+      "overlay",
+      "popup"
+    ],
+    "sidebar": [],
+    "sidebar-item": [
+      "badge",
+      "sidebar"
+    ],
+    "signature": [
+      "badge",
+      "icon",
+      "loading",
+      "button"
+    ],
+    "skeleton": [
+      "skeleton-title",
+      "skeleton-avatar",
+      "skeleton-paragraph"
+    ],
+    "skeleton-avatar": [],
+    "skeleton-image": [
+      "badge",
+      "icon"
+    ],
+    "skeleton-paragraph": [],
+    "skeleton-title": [],
+    "slider": [],
+    "space": [],
+    "step": [
+      "badge",
+      "icon",
+      "steps"
+    ],
+    "stepper": [],
+    "steps": [],
+    "sticky": [],
+    "submit-bar": [
+      "badge",
+      "icon",
+      "loading",
+      "button"
+    ],
+    "swipe": [],
+    "swipe-cell": [],
+    "swipe-item": [
+      "swipe"
+    ],
+    "switch": [
+      "loading"
+    ],
+    "tab": [
+      "badge",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs"
+    ],
+    "tabbar": [],
+    "tabbar-item": [
+      "badge",
+      "icon",
+      "tabbar"
+    ],
+    "tabs": [
+      "sticky",
+      "swipe"
+    ],
+    "tag": [
+      "badge",
+      "icon"
+    ],
+    "text-ellipsis": [],
+    "time-picker": [
+      "badge",
+      "loading",
+      "sticky",
+      "swipe",
+      "swipe-item",
+      "tabs",
+      "tab",
+      "picker",
+      "picker-group"
+    ],
+    "toast": [
+      "badge",
+      "icon",
+      "loading",
+      "overlay",
+      "popup"
+    ],
+    "tree-select": [
+      "badge",
+      "icon",
+      "sidebar",
+      "sidebar-item"
+    ],
+    "uploader": [
+      "badge",
+      "icon",
+      "image",
+      "loading",
+      "overlay",
+      "popup",
+      "swipe",
+      "swipe-item",
+      "image-preview"
+    ],
+    "watermark": []
+  },
+  "sequence": [
+    "action-bar",
+    "badge",
+    "icon",
+    "skeleton-image",
+    "rate",
+    "notice-bar",
+    "nav-bar",
+    "floating-bubble",
+    "image",
+    "back-top",
+    "tag",
+    "card",
+    "cell",
+    "coupon-cell",
+    "contact-card",
+    "collapse-item",
+    "field",
+    "search",
+    "action-bar-icon",
+    "loading",
+    "pull-refresh",
+    "number-keyboard",
+    "list",
+    "switch",
+    "button",
+    "submit-bar",
+    "signature",
+    "contact-edit",
+    "action-bar-button",
+    "overlay",
+    "popup",
+    "share-sheet",
+    "popover",
+    "notify",
+    "dialog",
+    "toast",
+    "action-sheet",
+    "sticky",
+    "swipe",
+    "swipe-item",
+    "image-preview",
+    "uploader",
+    "tabs",
+    "tab",
+    "cascader",
+    "picker",
+    "picker-group",
+    "time-picker",
+    "date-picker",
+    "calendar",
+    "area",
+    "address-edit",
+    "radio-group",
+    "checkbox-group",
+    "checkbox",
+    "coupon",
+    "radio",
+    "contact-list",
+    "address-list",
+    "barrage",
+    "cell-group",
+    "circle",
+    "row",
+    "col",
+    "collapse",
+    "config-provider",
+    "count-down",
+    "empty",
+    "coupon-list",
+    "divider",
+    "dropdown-menu",
+    "dropdown-item",
+    "floating-panel",
+    "form",
+    "grid",
+    "grid-item",
+    "index-bar",
+    "index-anchor",
+    "lazyload",
+    "locale",
+    "pagination",
+    "password-input",
+    "progress",
+    "rolling-text",
+    "sidebar",
+    "sidebar-item",
+    "tree-select",
+    "skeleton-title",
+    "skeleton-avatar",
+    "skeleton-paragraph",
+    "skeleton",
+    "slider",
+    "space",
+    "steps",
+    "step",
+    "stepper",
+    "swipe-cell",
+    "tabbar",
+    "tabbar-item",
+    "text-ellipsis",
+    "watermark"
+  ]
+}
